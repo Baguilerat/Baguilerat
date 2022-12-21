@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Baguilerat.
+- 👀 I’m interested in data science for public policy and economics.
+- 🌱 I’m currently learning text mining.
